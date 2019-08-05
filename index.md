@@ -21,6 +21,7 @@ Department of Resource and Environmental Science,  Wuhan University
 *  Undergraduate in Environmental Engineering
 *  A 3.86 GPA (3.86/4.0)
 *  An average of 90.976 (ranking second in my class)
+
 #### Technion-- Israel Institute of Technology | 07/2018- 08/2018
 * Acceptance to the Technion Summer School of Engineering and Science with **full scholarship**
 * (intensely competitive for sophomores to be admitted into the Summer School)
@@ -35,22 +36,27 @@ Department of Resource and Environmental Science,  Wuhan University
 *  Do some research on the development of an in situ method for restoration of two eutrophic lakes using geotextiles
 *  Participate in sampling of the lakes for the water and sediment quality on a regular basis (including COD, nutrient content, suspended solids, chlorophyll)
 *  Will compile analysis information at the end of the period of the testing
+
 #### Assistant of Professor Hui Zhang in Wuhan University | Since 07/2018
 * Conducted research on enhancing photocatalytic degradation of clofibric acid and bisohenol A using a g-C3N4/CeO2 heterojunction under visible light
 *  Helped with the fabrication, characterization, stability and recyclability tests of photocatalyst (including SEM, XDR), and toxicity tests
 *  Assisted in carrying out the whole experiment to investigate degradation of the pollutants under different conditions (including pH value, ratio of g-C3N4 and CeO2, amount of photocatalyst inhibitors, with and without PDS) and investigating into the mechanism.
 *  Did some research on efficiency of the technique under actual water body (including Yangtze River and effluent of a sewage disposal plant)
+
 #### Team leader of a group of five in the Student Research Training Program in Wuhan University | 03/2018 - 10/2018
 *  Did analyses of water (including BOD, COD, nitrogen content as well as sludge concentration)
 *  Did some research about the restoration of Wuhan East Lake water via activated sludge process
 *  Learned the anammaox process by myself and helped figure out the lab experimental plan
 *  Gathered team members and have been leading them carrying out the research plan
 *  Communicated with the guidance counselor on behalf of the whole team
+
 #### Assistant of associate Professor Hongping Wang in Wuhan University | 10/2017 - 03/2018
 *  Assisted with the measurement of COD of the sewage
+
 #### Charge of the Producing and Technique Department in my team in the challenge cup competition | 05/2017 - 05/2018
 *  Took charge of writing text material relevant to the manufacturing technique about chitosan hemostatic material
 *  Helped the team win an award in the competition successfully
+
 #### Member of Environmental Engineering Public Laboratory | Since 05/2017 
 *  Finished the design of a teaching device for sewage disposal based on electrochemical methods with partners
 *  Taught myself the Mechanical Engineering Drawing
@@ -79,11 +85,13 @@ Department of Resource and Environmental Science,  Wuhan University
 #### Keynote speaker of the practical programme of Visiting the Alma Mater | 05/2017 
 *  Introduced Wuhan University to high school students in my Alma Mater as one of the keynote speakers
 *  Gave a lecture to the students concerning learning methods of high school academic life as the keynote speaker
+
 #### Member of the Young Volunteers Association and Mental Health Association | 09/2017-04/2018 
 *  Participated in various voluntary activities
 *  Organized lots of large-scale voluntary events successfully
 *  Negotiated with different departments within association about activities’ implementation
 *  Presented ideas clearly and confidently to both small and large groups coming for volunteering
+
 #### The Class Commissary in charge of studies
 
 ## COMMUNITY SERVICE
