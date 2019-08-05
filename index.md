@@ -17,7 +17,7 @@ Department of Resource and Environmental Science,  Wuhan University
 
 ## ACADEMIC BACKGROUND
 
-#### Wuhan University                                                                                      | 09/2016 - 06/2020 (expected)
+#### Wuhan University                                                                                   | 09/2016 - 06/2020 (expected)
 *  Undergraduate in Environmental Engineering
 *  A 3.86 GPA (3.86/4.0)
 *  An average of 90.976 (ranking second in my class)
@@ -32,7 +32,7 @@ Department of Resource and Environmental Science,  Wuhan University
 ## ACADEMIC, RESEARCH & INDUSTRIAL EXPERIENCE
 
 #### Intern of Professor Catherine Mulligan in Concordia University in Canada | Since 09/2016 
-*  Fully funded by **China Scholarship Council** and **Canada Mitacs organization**
+*  Fully funded by __China Scholarship Council__ and **Canada Mitacs organization**
 *  Do some research on the development of an in situ method for restoration of two eutrophic lakes using geotextiles
 *  Participate in sampling of the lakes for the water and sediment quality on a regular basis (including COD, nutrient content, suspended solids, chlorophyll)
 *  Will compile analysis information at the end of the period of the testing
