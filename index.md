@@ -42,20 +42,20 @@ Department of Resource and Environmental Science,  Wuhan University
 *  Did some research on efficiency of the technique under actual water body (including Yangtze River and effluent of a sewage disposal plant)
 #### Team leader of a group of five in the Student Research Training Program in Wuhan University | 03/2018 - 10/2018
 *  Did analyses of water (including BOD, COD, nitrogen content as well as sludge concentration)
-    *  Did some research about the restoration of Wuhan East Lake water via activated sludge process
-    *  Learned the anammaox process by myself and helped figure out the lab experimental plan
-    *  Gathered team members and have been leading them carrying out the research plan
-    *  Communicated with the guidance counselor on behalf of the whole team
-#### *Assistant of associate Professor Hongping Wang in Wuhan University | 10/2017 - 03/2018
-    *  Assisted with the measurement of COD of the sewage
-#### *Charge of the Producing and Technique Department in my team in the challenge cup competition | 05/2017 - 05/2018
-    *  Took charge of writing text material relevant to the manufacturing technique about chitosan hemostatic material
-    *  Helped the team win an award in the competition successfully
-#### *Member of Environmental Engineering Public Laboratory | Since 05/2017 
-    *  Finished the design of a teaching device for sewage disposal based on electrochemical methods with partners
-    *  Taught myself the Mechanical Engineering Drawing
-    *  Obtained a patent for our teaching device successfully
-    *  Implement further experimental plan of sewage disposal based on our device
+*  Did some research about the restoration of Wuhan East Lake water via activated sludge process
+*  Learned the anammaox process by myself and helped figure out the lab experimental plan
+*  Gathered team members and have been leading them carrying out the research plan
+*  Communicated with the guidance counselor on behalf of the whole team
+#### Assistant of associate Professor Hongping Wang in Wuhan University | 10/2017 - 03/2018
+*  Assisted with the measurement of COD of the sewage
+#### Charge of the Producing and Technique Department in my team in the challenge cup competition | 05/2017 - 05/2018
+*  Took charge of writing text material relevant to the manufacturing technique about chitosan hemostatic material
+*  Helped the team win an award in the competition successfully
+#### Member of Environmental Engineering Public Laboratory | Since 05/2017 
+*  Finished the design of a teaching device for sewage disposal based on electrochemical methods with partners
+*  Taught myself the Mechanical Engineering Drawing
+*  Obtained a patent for our teaching device successfully
+*  Implement further experimental plan of sewage disposal based on our device
 
 
 ## PUBLICATIONS & PATENTS
@@ -76,15 +76,15 @@ Department of Resource and Environmental Science,  Wuhan University
 
 ## SOCIAL EXPERIENCE
 
-#### * Keynote speaker of the practical programme of Visiting the Alma Mater | 05/2017 
-    *  Introduced Wuhan University to high school students in my Alma Mater as one of the keynote speakers
-    *  Gave a lecture to the students concerning learning methods of high school academic life as the keynote speaker
-#### * Member of the Young Volunteers Association and Mental Health Association | 09/2017-04/2018 
-    *  Participated in various voluntary activities
-    *  Organized lots of large-scale voluntary events successfully
-    *  Negotiated with different departments within association about activities’ implementation
-    *  Presented ideas clearly and confidently to both small and large groups coming for volunteering
-#### * The Class Commissary in charge of studies
+#### Keynote speaker of the practical programme of Visiting the Alma Mater | 05/2017 
+*  Introduced Wuhan University to high school students in my Alma Mater as one of the keynote speakers
+*  Gave a lecture to the students concerning learning methods of high school academic life as the keynote speaker
+#### Member of the Young Volunteers Association and Mental Health Association | 09/2017-04/2018 
+*  Participated in various voluntary activities
+*  Organized lots of large-scale voluntary events successfully
+*  Negotiated with different departments within association about activities’ implementation
+*  Presented ideas clearly and confidently to both small and large groups coming for volunteering
+#### The Class Commissary in charge of studies
 
 ## COMMUNITY SERVICE
 
@@ -93,4 +93,5 @@ Department of Resource and Environmental Science,  Wuhan University
 * Delivered address-incomplete letters  
 
 
-#### References upon request
+#### References upon request.
+#### This webpage is maintained by Jing Wang.
