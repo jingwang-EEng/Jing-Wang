@@ -17,7 +17,7 @@ Department of Resource and Environmental Science,  Wuhan University
 
 ## ACADEMIC BACKGROUND
 
-#### Wuhan University                                                                                   | 09/2016 - 06/2020 (expected)
+### Wuhan University                                                                                   | 09/2016 - 06/2020 (expected)
 *  Undergraduate in Environmental Engineering
 *  A 3.86 GPA (3.86/4.0)
 *  An average of 90.976 (ranking second in my class)
