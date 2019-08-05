@@ -70,6 +70,7 @@ Department of Resource and Environmental Science,  Wuhan University
 * Huilong Liu, Yixuan Rao, Yongcheng Jia, Jin Yang, **Jing Wang**, Daobing Zhang, Jiangjun Hu. An experimental teaching device based on electrochemistry for treating various sewage, 2018
 * Xin Tang, **Jing Wang**, Wei Ren, Jie Sun, Heng Lin*, Hui Zhang*. Enhanced persulfate-mediated photocatalytic oxidation of biosphenol A using a g-C3N4/Ce2 heterojunction. (will be submitted)
 
+
 ## AWARDS
 
 * 01/2018 & 10/2018 |  **National Encouragement Scholarship of China** (twice)
@@ -79,6 +80,7 @@ Department of Resource and Environmental Science,  Wuhan University
 * 10/2018  | **The Second Prize of the 9th "Ziqiang Cup" Entrepreneurship Competition**
 * 12/2016 & 06/2017 | **“The Star Volunteer” Title** (twice)  
 * 10/2016  | **“Advanced Individual in Military Training”** Title 
+
 
 ## SOCIAL EXPERIENCE
 
@@ -93,6 +95,7 @@ Department of Resource and Environmental Science,  Wuhan University
 *  Presented ideas clearly and confidently to both small and large groups coming for volunteering
 
 ### The Class Commissary in charge of studies
+
 
 ## COMMUNITY SERVICE
 
