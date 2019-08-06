@@ -1,9 +1,10 @@
 ![jingwang](jingwang.jpg)
-## Welcome to GitHub Pages
+## Welcome to Jing's personal webpage!
 
-You can use the [editor on GitHub](https://github.com/jingwang-EEng/jingwang.com/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+* *To think ecologically and to behave ecologically. We can make a difference for clean water, clear air as well as health soil.*
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+* **Think outside of the box. Go to the other side of the fence.**
+* **Persistence. Self-reflection. Self-discipline.**
 # JING WANG
 A junior majoring in Environmental Engineering
 
