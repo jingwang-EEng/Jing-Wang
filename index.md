@@ -1,11 +1,15 @@
 ![jingwang](jingwang.jpg)
+
 # Welcome to Jing's personal webpage!
 
 * **To think ecologically and to behave ecologically. We can make a difference for clean water, clear air as well as health soil.**
 
 * **Think outside of the box. Go to the other side of the fence.**
+
 * **Persistence. Self-reflection. Self-discipline.**
+
 # JING WANG
+
 A junior majoring in Environmental Engineering
 
 Department of Resource and Environmental Science,  Wuhan University
